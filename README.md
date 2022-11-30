@@ -1,7 +1,8 @@
-# 22-23 Assignment template
+# GDSC-Server-Assignment-06
 
-## 사용하는 방법
+## ⚠️ 주의 사항
 
-1. 레포를 생성할 때 해당 템플릿을 선택합니다.
-2. `.github/CODEOWNER`에 해당 파트 Core 멤버를 추가합니다.
-3. [`Auto assign`](https://github.com/apps/auto-assign) 앱을 등록합니다.
+* fork 한 뒤 기본 파일을 건들지 말 것
+* 프로젝트 폴더를 통쨰로 넣는데 폴더 이름을 자기 이름으로
+
+주의사항 안지키면 리뷰 안될 수 있습니다.
